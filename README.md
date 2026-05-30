@@ -1,1 +1,1 @@
-application de collecte de donnees test
+Le test doit reussir 
